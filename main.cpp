@@ -2,7 +2,7 @@
 #include <string>
 #include <map>
 #include <stdexcept>
-#include "./json11-master/json11.hpp"
+#include "./json11-master/json11.h"
 #include "./JSONLib-master/JSONLib/src/JSONLib.h"
 
 
