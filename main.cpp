@@ -2,8 +2,9 @@
 #include <string>
 #include <map>
 #include <stdexcept>
-#include "./json11-master/json11.hpp" // Asegúrate de que esta biblioteca esté correctamente configurada
+#include "./json11-master/json11.hpp"
 #include "./JSONLib-master/JSONLib/src/JSONLib.h"
+
 
 // Enumeración para los diferentes tipos de variantes
 enum variant_type { Symbol, Number, List, Proc, Lambda, Cadena };
